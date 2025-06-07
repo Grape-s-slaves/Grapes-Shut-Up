@@ -4,7 +4,7 @@ license="All rights reserved"
 
 [[mods]]
 modId="gsu"
-version="1.0.0"
+version="0.1.0"
 displayName="Grape's Shut Up"
 description='''
 A mod that completely removes items, blocks, entities, and structures from the game based on a configuration file.
